@@ -39,7 +39,7 @@ Solutions are organized by **difficulty level** and **programming language**. Ea
 
 ## 🔗 My LeetCode Profile
 
-🧩 [LeetCode: hsbdjbaf](https://leetcode.com/sweetyeo)
+🧩 [LeetCode: NancyGace](https://leetcode.com/NancyGace)
 
 
 ---
