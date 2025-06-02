@@ -31,7 +31,7 @@ Solutions are organized by **difficulty level** and **programming language**. Ea
 
 | Language      | Problems Solved |
 |---------------|------------------|
-| **Java**       | [4](https://github.com/sweetyeo/LeetCode-Solutions/blob/main/Hard/Java/4_Median_of_Two_Sorted_Arrays.java) |
+| **Java**       | [4](https://github.com/sweetyeo/LeetCode-Solutions/blob/main/Hard/Java/4_Median_of_Two_Sorted_Arrays.java), [135](https://github.com/sweetyeo/LeetCode-Solutions/blob/main/Hard/Java/135_Candy.java) |
 | **JavaScript** | — |
 
 
